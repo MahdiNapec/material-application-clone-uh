@@ -28,11 +28,11 @@ This will generate them into `build` folder.
 
 An example for serving static files:
 
-Use npm package called serve to serve the project in port 5000:
+Use npm package called serve to serve the project in port 5001:
 - install: `npm install -g serve`
-- serve: `serve -s -l 5000 build`
+- serve: `serve -s -l 5001 build`
 
-Test that the project is running by going to <http://localhost:5000>
+Test that the project is running by going to <http://localhost:5001>
 
 ## Exercise 1.14 -> to connect to backend
 
